@@ -482,10 +482,6 @@ section:nth-child(2n + 1) {
     display: none;
   }
 
-  #my-image {
-    margin-top: -13vh;
-  }
-
   .section-heading span {
     font-size: 30px;
   }
