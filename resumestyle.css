@@ -481,4 +481,20 @@ section:nth-child(2n + 1) {
   .nav-menu {
     display: none;
   }
+
+  #my-image {
+    margin-top: -13vh;
+  }
+
+  .section-heading span {
+    font-size: 30px;
+  }
+
+  .skill-name span {
+    font-size: 0.8rem;
+  }
+
+  .timeline-box::after {
+    left: -6% !important;
+  }
 }
