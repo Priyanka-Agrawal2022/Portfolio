@@ -222,6 +222,7 @@ section:nth-child(2n + 1) {
   width: auto;
   padding: 20px 10px 10px;
   font-weight: 400;
+  margin-bottom: 20px;
 }
 
 .section-heading span {
@@ -235,10 +236,10 @@ section:nth-child(2n + 1) {
 .skills-display {
   width: 70%;
   padding: 10px;
-  margin: 30px auto;
+  margin: 0 auto 30px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .skill-progress {
